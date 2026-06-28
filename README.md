@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I am a Senior Software Engineer specialising in backend data integration and AI with Java, Typescript or Python. I have extensive experience with AWS and Kubernetes. I also enjoy frontend development in my spare time.
+I specialise in backend data integration and AI with Java, Typescript or Python. I have extensive experience with AWS and Kubernetes. I also enjoy frontend development in my spare time.
 
 * 🌍  I'm based in Manchester, UK
-* 🖥️  See my portfolio at [https://adamseng.github.io/portfolio/](http://adamseng.github.io/portfolio/)
+* 🖥️  See my portfolio at [https://adam-stott-dev.github.io/portfolio/](http://adam-stott-dev.github.io/portfolio/)
 * 🚀  I'm currently working on [Scare Scale](http://scarescale.com)
 
 <p align="left">
@@ -17,8 +17,7 @@ I am a Senior Software Engineer specialising in backend data integration and AI 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/adam-stott-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/adamstott0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/adam-stott-dev"><img src="https://github-readme-stats.vercel.app/api?username=adam-stott-dev&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adam-stott-dev's GitHub stats" /></a>
